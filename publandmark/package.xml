@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>publandmark</name>
+    <version>0.0.0</version>
+    <description>The publandmark package</description>
+
+    <maintainer email="tianjiaoliao@cuhk.edu.cn">unitree</maintainer>
+    <license>TODO</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>roscpp</depend>
+    <depend>std_msgs</depend>
+    <depend>geometry_msgs</depend>
+    <depend>cartographer_ros_msgs</depend>
+</package>
